@@ -1,0 +1,13 @@
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+D:\0งานมหาลัย\ปี 1_2\MDT112\การบ้าน\รุ่นพี่\Operators\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
